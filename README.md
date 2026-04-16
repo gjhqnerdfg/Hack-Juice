@@ -49,5 +49,5 @@ Chaque challenge suit la structure de documentation suivante :
 
 Projet réalisé dans le cadre du cursus **Epitech**.
 
-> ⚠️ Ce projet est réalisé dans un cadre strictement pédagogique.
+> Ce projet est réalisé dans un cadre strictement pédagogique.
 > Toute exploitation de ces techniques en dehors d'un environnement autorisé est illégale.
